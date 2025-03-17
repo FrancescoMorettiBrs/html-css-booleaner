@@ -1,0 +1,30 @@
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 183, 255);
+    width: 100%;
+    }
+
+.important {
+    color: rgb(0, 0, 255);
+}
+
+.grey-txt {
+    color: rgb(128, 128, 128);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-tim {
+    width: 45%;
+} 
+
+.highlight {
+    background-color: rgb(255, 255, 0);
+
+}
+
+.head-table {
+    color: white;
+    background-color: rgb(0, 164, 205);
+    font-size: large;
+}
+
