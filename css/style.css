@@ -33,7 +33,7 @@ body, html {
        
     }
 
-    .date {
+.date {
         font-size: 16px;
 
     }
@@ -49,8 +49,9 @@ body, html {
 }
 
 .img-tim{
-    width: 45%; 
+    width: 100%; 
     height: auto;
+    
 } 
 
 .paragraph {
@@ -83,4 +84,6 @@ table {
 
 .correlati {
     margin-top: 25px;
+    margin-bottom: 10px;
 }
+
